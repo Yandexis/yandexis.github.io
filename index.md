@@ -47,6 +47,7 @@
 <input type="radio"/><brbr/> 
 <label>Кружок 2</label> 
 <input type="radio"/><br/>
+
 <label>Выбор</label>
 <select multiple size=1>
 <option>1</option>
