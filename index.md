@@ -23,11 +23,15 @@
     <li>Один</li>
     <li>Два</li>
     <li>Три</li>
+    <li>Четыре</li>
+    <li>Пять</li>
 </ol>
 <ul>
-    <li>Один</li>
-    <li>Два</li>
+    <li>Пять</li>
+    <li>Четыре</li>
     <li>Три</li>
+    <li>Два</li>
+    <li>Один</li>
 </ul>
 
 <p><i>X <sup><small>2</p>
@@ -58,6 +62,6 @@
 <label">Поле для текста</label><br/>
 <textarea></textarea><br/>
             
-<button>Отправить</button>
+<button type="submit">Отправить</button>
 </body>
 </html>
