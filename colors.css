@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+.redtext {
+  color: red;
+}
+.indent {
+  margin-top: 50px;
+}
