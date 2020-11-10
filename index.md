@@ -8,9 +8,9 @@
    
 </head>
 <body>
-	<h1> <span class="redtext">Заголовок 1</h1>
-<h1>Заголовок 2</h1>
-<h1>Заголовок 3</h1>
+	<h1> <span class="redtext">Это красное<span/> а это черное</h1>
+<h1>еще черное слово</h1>
+<h1><span class ="redtext">Еще красное слово<span/></h1>
 
 <p class="indent"> Отступ 1 </p>
 <p class="indent"> Отступ 2 </p>
